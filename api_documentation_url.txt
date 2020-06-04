@@ -1,0 +1,5 @@
+Users Operations
+
+collection for users operation such as add, edit, delete, get, get by id, typehead(search user based on keyword).
+
+https://documenter.getpostman.com/view/11608136/SztHXkJ2?version=latest
